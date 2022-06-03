@@ -1,0 +1,15 @@
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\bin\Debug\net6.0\MoodAnalyser.exe
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\bin\Debug\net6.0\MoodAnalyser.deps.json
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\bin\Debug\net6.0\MoodAnalyser.runtimeconfig.json
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\bin\Debug\net6.0\MoodAnalyser.dll
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\bin\Debug\net6.0\MoodAnalyser.pdb
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.csproj.AssemblyReference.cache
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.AssemblyInfoInputs.cache
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.AssemblyInfo.cs
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.csproj.CoreCompileInputs.cache
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.dll
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\refint\MoodAnalyser.dll
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.pdb
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\MoodAnalyser.genruntimeconfig.cache
+D:\BridgeLabs Assignment\MoodAnalyser\MoodAnalyser\obj\Debug\net6.0\ref\MoodAnalyser.dll
